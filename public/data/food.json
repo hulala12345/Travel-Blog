@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Spicy Noodle Soup",
+    "location": "Old Town",
+    "description": "A flavorful broth with homemade noodles.",
+    "image": "https://via.placeholder.com/250x150?text=Food+1"
+  },
+  {
+    "id": 2,
+    "name": "Mountain Berry Pie",
+    "location": "Rocky Trail",
+    "description": "Sweet and tart berries baked in a flaky crust.",
+    "image": "https://via.placeholder.com/250x150?text=Food+2"
+  }
+]
