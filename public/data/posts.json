@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Exploring the Ancient City",
+    "summary": "A walk through the historic downtown district.",
+    "date": "2023-05-10",
+    "coverImage": "https://via.placeholder.com/300x200?text=City",
+    "location": {
+      "name": "Old Town",
+      "lat": 40.7128,
+      "lng": -74.0060
+    },
+    "tags": ["Old Town", "History"],
+    "photos": ["https://via.placeholder.com/600x400?text=City+1", "https://via.placeholder.com/600x400?text=City+2"]
+  },
+  {
+    "id": 2,
+    "title": "Mountain Hiking Adventure",
+    "summary": "Scaling the peaks for breathtaking views.",
+    "date": "2023-07-20",
+    "coverImage": "https://via.placeholder.com/300x200?text=Mountains",
+    "location": {
+      "name": "Rocky Trail",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    "tags": ["Hiking", "Nature"],
+    "photos": ["https://via.placeholder.com/600x400?text=Mountain+1", "https://via.placeholder.com/600x400?text=Mountain+2", "https://via.placeholder.com/600x400?text=Mountain+3"]
+  }
+]
